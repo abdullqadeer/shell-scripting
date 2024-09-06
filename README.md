@@ -42,6 +42,6 @@ This script automates the process of fetching usage data from cPanel accounts as
 - **Pros**: Saves time by automating the collection of usage data across multiple accounts. It reduces the likelihood of errors and ensures consistent data gathering.
 - **Cons**: Requires initial setup and configuration. It depends on the availability and reliability of the UAPI command and correct file permissions.
 
-## Conclusion
+## Summarize
 
 The `get_all_acnt_usage_per_plan.sh` script offers an efficient solution for non-technical users to manage and analyze cPanel account usage data effortlessly. By automating the retrieval process and integrating with cPanel's UAPI, it enhances efficiency and accuracy in usage statistics management.
